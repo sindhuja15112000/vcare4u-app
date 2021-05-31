@@ -1,0 +1,161 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/mask"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/mybutton1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Will COVID-19 vaccine be given to everyone simultaneously?"
+        android:textAlignment="viewStart"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/mybutton2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Is it mandatory to take the vaccine?"
+        android:textAlignment="viewStart"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/mybutton3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Are there any preventive measures and precautions that one needs to follow at the session site?"
+        android:textAlignment="viewStart"
+        android:textSize="17sp" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:textSize="18sp" />
+
+
+    <Button
+        android:id="@+id/mybutton4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="How many doses of the vaccine would have to be taken and at what interval?"
+        android:textAlignment="viewStart"
+        android:textSize="17sp" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/mybutton5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="What about the possible side-effects from COVID-19 vaccine?"
+        android:textAlignment="viewStart"
+        android:textSize="17sp" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/mybutton6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Is it necessary for a COVID recovered person to take the vaccine?"
+        android:textAlignment="viewStart"
+        android:textSize="17sp" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/mybutton7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Can a person having COVID-19 (confirmed/suspected) infection be vaccinated?"
+        android:textAlignment="viewStart"
+        android:textSize="17sp" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:textSize="18sp" />
+    />
+
+    <Button
+        android:id="@+id/mybutton8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="What documents are required for registration of eligible beneficiary?"
+        android:textAlignment="viewStart"
+        android:textSize="17sp" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/mybutton9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Can a person get the COVID-19 vaccine without registration?"
+        android:textAlignment="viewStart"
+        android:textSize="17sp" />
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/mybutton10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:scrollbarAlwaysDrawVerticalTrack="true"
+        android:text="Which COVID-19 vaccine is used in India?"
+        android:textAlignment="viewStart"
+        android:textSize="17sp" />
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:textSize="18sp" />
+
+
+</LinearLayout>
